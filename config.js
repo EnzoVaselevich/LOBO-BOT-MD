@@ -24,7 +24,7 @@ global.suittag =['50576390682']
 global.prems =['50576390682']
 
 global.packname = '☯︎ 𝙱𝙾𝚃\n☯︎ 𝙾𝚆𝙽𝙴𝚁';
-global.author = 'ʜᴀᴄʜɪᴋᴏ-ʙᴏᴛ-ᴍᴅ\nʜᴀᴄʜᴇᴊᴏᴛᴀ';
+global.author = 'иαgιѕα🤖\иαgιѕα🤖';
 global.wm = 'иαgιѕα🤖-ʙᴏᴛ-ᴍᴅ;
 global.titulowm = 'иαgιѕα🤖-ʙᴏᴛ;
 global.titulowm2 =`✦иαgιѕα🤖-ʙᴏᴛ(ᴍᴅ)✦`
