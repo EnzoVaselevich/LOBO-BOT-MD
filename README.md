@@ -6,7 +6,7 @@
 
 # `иαgιѕα🤖⃞⃟⃠` 
 <p align="center">
-<img src="https://i.ibb.co/wYRhwjt/lobo-bot.jpg" alt="LoboBot-MD" width="900"/>
+<img src="https://telegra.ph/file/8a170f0762c7c27674082.jpg" alt="LoboBot-MD" width="900"/>
 </p>
 ------------------
 
